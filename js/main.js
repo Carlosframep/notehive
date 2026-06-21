@@ -20,6 +20,9 @@ function renderSubjects(subjects) {
   subjects.forEach(subject => {
     const card = document.createElement('div');
     card.className = 'card';
+    card.onclick = () => {
+      window.location.href = `materia.html?id=${subject.id}`;
+    };
     card.innerHTML = `
       <div class="card-emoji">${subject.emoji}</div>
       <h2>${subject.nombre}</h2>
