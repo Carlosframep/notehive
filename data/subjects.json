@@ -1,0 +1,83 @@
+[
+  {
+    "id": "cas",
+    "nombre": "CAS",
+    "descripcion": "Creatividad, Actividad y Servicio",
+    "emoji": "🌱",
+    "apuntes": [],
+    "videos": [],
+    "guias": []
+  },
+  {
+    "id": "monografia",
+    "nombre": "Monografía",
+    "descripcion": "Investigación independiente en profundidad",
+    "emoji": "📝",
+    "apuntes": [],
+    "videos": [],
+    "guias": []
+  },
+  {
+    "id": "tok",
+    "nombre": "Teoría del Conocimiento",
+    "descripcion": "TOK - Reflexión sobre la naturaleza del conocimiento",
+    "emoji": "🧠",
+    "apuntes": [],
+    "videos": [],
+    "guias": []
+  },
+  {
+    "id": "sociedad-digital",
+    "nombre": "Sociedad Digital NM",
+    "descripcion": "Impacto de la tecnología en la sociedad",
+    "emoji": "💻",
+    "apuntes": [],
+    "videos": [],
+    "guias": []
+  },
+  {
+    "id": "cdes",
+    "nombre": "CDES NM",
+    "descripcion": "Ciencias del Deporte, Ejercicio y la Salud",
+    "emoji": "🏃",
+    "apuntes": [],
+    "videos": [],
+    "guias": []
+  },
+  {
+    "id": "matematicas",
+    "nombre": "Matemáticas MAE NS",
+    "descripcion": "Matemáticas: Análisis y Enfoques",
+    "emoji": "📐",
+    "apuntes": [],
+    "videos": [],
+    "guias": []
+  },
+  {
+    "id": "lengua",
+    "nombre": "Lengua y Literatura NS",
+    "descripcion": "Estudios de Lengua y Literatura",
+    "emoji": "📚",
+    "apuntes": [],
+    "videos": [],
+    "guias": []
+  },
+  {
+    "id": "ingles",
+    "nombre": "Inglés NS",
+    "descripcion": "Adquisición de Lenguas",
+    "emoji": "🌐",
+    "apuntes": [],
+    "videos": [],
+    "guias": []
+  },
+  {
+    "id": "historia",
+    "nombre": "Historia NS",
+    "descripcion": "Individuos y Sociedades",
+    "emoji": "📜",
+    "apuntes": [],
+    "videos": [],
+    "guias": []
+  }
+]
