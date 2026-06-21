@@ -8,15 +8,52 @@
 </head>
 <body>
 
-  <header>
+  <nav>
     <h1>🐝 NoteHive</h1>
-    <p>Recursos de estudio para estudiantes de bachillerato internacional</p>
-  </header>
+    <ul>
+      <li><a href="#materias">Materias</a></li>
+      <li><a href="#sobre-mi">Sobre mí</a></li>
+    </ul>
+  </nav>
 
-  <main>
-    <input type="text" id="search" placeholder="Buscar materia..." />
+  <section class="hero">
+    <h2>Tu espacio de estudio 🚀</h2>
+    <p>Recursos organizados para estudiantes de bachillerato internacional</p>
+    <input type="text" id="search" placeholder="🔍 Buscar materia..." />
+  </section>
+
+  <main id="materias">
     <div id="subjects-container"></div>
   </main>
+
+  <section id="sobre-mi">
+    <h2>¿Por qué NoteHive? 🐝</h2>
+    <p>
+      Cuando entré al bachillerato internacional, lo más difícil no fue el contenido, 
+      sino saber por dónde empezar. La información estaba dispersa, cada quien tenía 
+      sus propios apuntes y no existía un lugar donde encontrar todo organizado.
+    </p>
+    <br>
+    <p>
+      NoteHive nació para resolver eso. Aquí encontrarás guías, apuntes y recursos 
+      seleccionados de los mejores profesores y especialistas, organizados por materia 
+      y nivel (NM = Nivel Medio, NS = Nivel Superior).
+    </p>
+    <br>
+    <p>
+      Además, cada materia tendrá su propio espacio para la 
+      <strong style="color:#a78bfa">Evaluación Interna (IA)</strong>, 
+      uno de los componentes más importantes del IB y donde más orientación se necesita.
+    </p>
+    <br>
+    <p style="color:#a78bfa; font-weight:600;">
+      Si estás en un COAR y te sientes perdido, este es tu lugar. 🚀
+    </p>
+  </section>
+
+  <footer>
+    <p>Hecho con 🐝 por Carlos — NoteHive 2026</p>
+  </footer>
 
   <script src="js/main.js"></script>
 </body>
